@@ -1,0 +1,7 @@
+D:\WindowProgramming\solution2\Example2\bin\Debug\Example2.exe.config
+D:\WindowProgramming\solution2\Example2\bin\Debug\Example2.exe
+D:\WindowProgramming\solution2\Example2\bin\Debug\Example2.pdb
+D:\WindowProgramming\solution2\Example2\obj\Debug\Example2.csproj.AssemblyReference.cache
+D:\WindowProgramming\solution2\Example2\obj\Debug\Example2.csproj.CoreCompileInputs.cache
+D:\WindowProgramming\solution2\Example2\obj\Debug\Example2.exe
+D:\WindowProgramming\solution2\Example2\obj\Debug\Example2.pdb

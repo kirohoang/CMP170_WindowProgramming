@@ -1,0 +1,7 @@
+D:\WindowProgramming\solution2\Exercise\obj\Debug\Exercise.csproj.AssemblyReference.cache
+D:\WindowProgramming\solution2\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+D:\WindowProgramming\solution2\Exercise\bin\Debug\Exercise.exe.config
+D:\WindowProgramming\solution2\Exercise\bin\Debug\Exercise.exe
+D:\WindowProgramming\solution2\Exercise\bin\Debug\Exercise.pdb
+D:\WindowProgramming\solution2\Exercise\obj\Debug\Exercise.exe
+D:\WindowProgramming\solution2\Exercise\obj\Debug\Exercise.pdb

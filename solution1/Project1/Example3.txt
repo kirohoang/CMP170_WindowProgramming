@@ -1,0 +1,33 @@
+
+            1. int x = (int)1.4 * 10;
+            x = 10
+
+            2. float x = (float)21 / 6 + 8;
+            x = 11.5
+
+            3. float x = 11 / 2;
+            x = 5
+
+            4. float x = 1.5F * (11 / 2);
+            x = 7.5
+
+            5. float x = 1.5F * 11 / 2;
+            x = 8.25
+            
+            6. float x = 21 / 6 + 8;
+            x = 11.5
+            
+            7. int n, m, i = 3; n = i++; m = ++i;
+            n = 3
+            m = 5
+            
+            8. int n, m, i = 3; n = ++i; m = i--;
+            n = 4
+            m = 4
+            
+            9. int n, m, i = 3; n = i--; m = ++i;
+            n = 3
+            m = 3
+            
+            10. int x, i = 3; x = ++i + (--i);
+            x = 7
