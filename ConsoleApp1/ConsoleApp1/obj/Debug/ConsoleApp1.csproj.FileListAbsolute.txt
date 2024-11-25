@@ -1,0 +1,7 @@
+D:\CMP170_WindowProgramming\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\CMP170_WindowProgramming\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\CMP170_WindowProgramming\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\CMP170_WindowProgramming\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\CMP170_WindowProgramming\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\CMP170_WindowProgramming\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\CMP170_WindowProgramming\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

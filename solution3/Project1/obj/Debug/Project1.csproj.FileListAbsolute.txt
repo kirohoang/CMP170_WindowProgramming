@@ -39,3 +39,5 @@ D:\CMP170_WindowProgramming\solution3\Project1\obj\Debug\Project1.pdb
 D:\CMP170_WindowProgramming\solution3\Project1\bin\Debug\Project1.exe.config
 D:\CMP170_WindowProgramming\solution3\Project1\bin\Debug\Project1.exe
 D:\CMP170_WindowProgramming\solution3\Project1\bin\Debug\Project1.pdb
+D:\CMP170_WindowProgramming\solution3\Project1\obj\Debug\Project1.Form7.resources
+D:\CMP170_WindowProgramming\solution3\Project1\obj\Debug\Project1.Form8.resources
