@@ -22,7 +22,6 @@ namespace Project1
         private List<Button> clickedButton = new List<Button>();
         private int elapsedTime;
         private int matchedPairs;
-        private int ratio;
         private int numImages; 
         #endregion
 

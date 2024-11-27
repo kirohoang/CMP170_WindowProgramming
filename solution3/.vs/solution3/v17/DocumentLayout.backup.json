@@ -9,14 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{14D1A12C-3772-4C6B-B43C-C921BB369FAE}|Project1\\Project1.csproj|D:\\CMP170_WindowProgramming\\solution3\\project1\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{14D1A12C-3772-4C6B-B43C-C921BB369FAE}|Project1\\Project1.csproj|solutionrelative:project1\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14D1A12C-3772-4C6B-B43C-C921BB369FAE}|Project1\\Project1.csproj|D:\\CMP170_WindowProgramming\\solution3\\project1\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14D1A12C-3772-4C6B-B43C-C921BB369FAE}|Project1\\Project1.csproj|solutionrelative:project1\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14D1A12C-3772-4C6B-B43C-C921BB369FAE}|Project1\\Project1.csproj|D:\\CMP170_WindowProgramming\\solution3\\project1\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14D1A12C-3772-4C6B-B43C-C921BB369FAE}|Project1\\Project1.csproj|solutionrelative:project1\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,31 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form6.cs",
-              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution3\\Project1\\Form6.cs",
-              "RelativeDocumentMoniker": "Project1\\Form6.cs",
-              "ToolTip": "D:\\CMP170_WindowProgramming\\solution3\\Project1\\Form6.cs",
-              "RelativeToolTip": "Project1\\Form6.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T13:17:14.768Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form8.cs",
               "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution3\\Project1\\Form8.cs",
               "RelativeDocumentMoniker": "Project1\\Form8.cs",
-              "ToolTip": "D:\\CMP170_WindowProgramming\\solution3\\Project1\\Form8.cs*",
-              "RelativeToolTip": "Project1\\Form8.cs*",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAIwIkAAAAUAAAAAAAAAA==",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\solution3\\Project1\\Form8.cs",
+              "RelativeToolTip": "Project1\\Form8.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvyYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:25:51.927Z",
+              "WhenOpened": "2024-11-27T01:22:11.37Z",
               "EditorCaption": ""
             },
             {
@@ -62,19 +42,8 @@
               "ToolTip": "D:\\CMP170_WindowProgramming\\solution3\\Project1\\Form8.cs [Design]",
               "RelativeToolTip": "Project1\\Form8.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:23:49.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form7.cs",
-              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution3\\Project1\\Form7.cs",
-              "RelativeDocumentMoniker": "Project1\\Form7.cs",
-              "ToolTip": "D:\\CMP170_WindowProgramming\\solution3\\Project1\\Form7.cs",
-              "RelativeToolTip": "Project1\\Form7.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAAwIQAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:06:39.886Z"
+              "WhenOpened": "2024-11-25T07:23:49.982Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

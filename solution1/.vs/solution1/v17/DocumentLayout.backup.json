@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\WindowProgramming\\solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CA9DB3D-7AE7-4564-B107-8021C7374B9D}|Project1\\Project1.csproj|d:\\windowprogramming\\solution1\\project1\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CA9DB3D-7AE7-4564-B107-8021C7374B9D}|Project1\\Project1.csproj|solutionrelative:project1\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CA9DB3D-7AE7-4564-B107-8021C7374B9D}|Project1\\Project1.csproj|d:\\windowprogramming\\solution1\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA9DB3D-7AE7-4564-B107-8021C7374B9D}|Project1\\Project1.csproj|solutionrelative:project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ex2.cs",
-              "DocumentMoniker": "D:\\WindowProgramming\\solution1\\Project1\\Ex2.cs",
-              "RelativeDocumentMoniker": "Project1\\Ex2.cs",
-              "ToolTip": "D:\\WindowProgramming\\solution1\\Project1\\Ex2.cs*",
-              "RelativeToolTip": "Project1\\Ex2.cs*",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFEAAABFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WindowProgramming\\solution1\\Project1\\Program.cs",
+              "RelativeDocumentMoniker": "Project1\\Program.cs",
+              "ToolTip": "D:\\WindowProgramming\\solution1\\Project1\\Program.cs",
+              "RelativeToolTip": "Project1\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAArwLkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:51:00.622Z",
+              "WhenOpened": "2024-11-11T19:24:56.254Z",
               "EditorCaption": ""
             }
           ]

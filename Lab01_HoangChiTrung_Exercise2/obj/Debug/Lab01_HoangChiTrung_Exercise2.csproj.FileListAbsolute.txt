@@ -1,0 +1,7 @@
+D:\CMP170_WindowProgramming\Lab01_HoangChiTrung_Exercise2\bin\Debug\Lab01_HoangChiTrung_Exercise2.exe.config
+D:\CMP170_WindowProgramming\Lab01_HoangChiTrung_Exercise2\bin\Debug\Lab01_HoangChiTrung_Exercise2.exe
+D:\CMP170_WindowProgramming\Lab01_HoangChiTrung_Exercise2\bin\Debug\Lab01_HoangChiTrung_Exercise2.pdb
+D:\CMP170_WindowProgramming\Lab01_HoangChiTrung_Exercise2\obj\Debug\Lab01_HoangChiTrung_Exercise2.csproj.AssemblyReference.cache
+D:\CMP170_WindowProgramming\Lab01_HoangChiTrung_Exercise2\obj\Debug\Lab01_HoangChiTrung_Exercise2.csproj.CoreCompileInputs.cache
+D:\CMP170_WindowProgramming\Lab01_HoangChiTrung_Exercise2\obj\Debug\Lab01_HoangChiTrung_Exercise2.exe
+D:\CMP170_WindowProgramming\Lab01_HoangChiTrung_Exercise2\obj\Debug\Lab01_HoangChiTrung_Exercise2.pdb

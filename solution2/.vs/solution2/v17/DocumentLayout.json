@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WindowProgramming\\solution2\\",
+  "WorkspaceRootPath": "D:\\CMP170_WindowProgramming\\solution2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6C112C1-81DD-4AA6-804D-7DDF07DCAAC5}|Exercise\\Exercise.csproj|d:\\windowprogramming\\solution2\\exercise\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6C112C1-81DD-4AA6-804D-7DDF07DCAAC5}|Exercise\\Exercise.csproj|d:\\cmp170_windowprogramming\\solution2\\exercise\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6C112C1-81DD-4AA6-804D-7DDF07DCAAC5}|Exercise\\Exercise.csproj|solutionrelative:exercise\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6C112C1-81DD-4AA6-804D-7DDF07DCAAC5}|Exercise\\Exercise.csproj|D:\\WindowProgramming\\solution2\\exercise\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6C112C1-81DD-4AA6-804D-7DDF07DCAAC5}|Exercise\\Exercise.csproj|D:\\CMP170_WindowProgramming\\solution2\\exercise\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6C112C1-81DD-4AA6-804D-7DDF07DCAAC5}|Exercise\\Exercise.csproj|solutionrelative:exercise\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6C112C1-81DD-4AA6-804D-7DDF07DCAAC5}|Exercise\\Exercise.csproj|D:\\WindowProgramming\\solution2\\exercise\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6C112C1-81DD-4AA6-804D-7DDF07DCAAC5}|Exercise\\Exercise.csproj|D:\\CMP170_WindowProgramming\\solution2\\exercise\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6C112C1-81DD-4AA6-804D-7DDF07DCAAC5}|Exercise\\Exercise.csproj|solutionrelative:exercise\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F89D04-F502-4993-B6A0-1CBBDD86DF3D}|Example2\\Example2.csproj|d:\\cmp170_windowprogramming\\solution2\\example2\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F89D04-F502-4993-B6A0-1CBBDD86DF3D}|Example2\\Example2.csproj|solutionrelative:example2\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F89D04-F502-4993-B6A0-1CBBDD86DF3D}|Example2\\Example2.csproj|d:\\cmp170_windowprogramming\\solution2\\example2\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F89D04-F502-4993-B6A0-1CBBDD86DF3D}|Example2\\Example2.csproj|solutionrelative:example2\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F89D04-F502-4993-B6A0-1CBBDD86DF3D}|Example2\\Example2.csproj|d:\\cmp170_windowprogramming\\solution2\\example2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F89D04-F502-4993-B6A0-1CBBDD86DF3D}|Example2\\Example2.csproj|solutionrelative:example2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +34,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution2\\Example2\\Tester.cs",
+              "RelativeDocumentMoniker": "Example2\\Tester.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\solution2\\Example2\\Tester.cs",
+              "RelativeToolTip": "Example2\\Tester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:51:09.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution2\\Example2\\StudentList.cs",
+              "RelativeDocumentMoniker": "Example2\\StudentList.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\solution2\\Example2\\StudentList.cs",
+              "RelativeToolTip": "Example2\\StudentList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:51:09.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution2\\Example2\\Person.cs",
+              "RelativeDocumentMoniker": "Example2\\Person.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\solution2\\Example2\\Person.cs",
+              "RelativeToolTip": "Example2\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:51:07.469Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Player.cs",
-              "DocumentMoniker": "D:\\WindowProgramming\\solution2\\Exercise\\Player.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution2\\Exercise\\Player.cs",
               "RelativeDocumentMoniker": "Exercise\\Player.cs",
-              "ToolTip": "D:\\WindowProgramming\\solution2\\Exercise\\Player.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\solution2\\Exercise\\Player.cs",
               "RelativeToolTip": "Exercise\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,11 +92,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game.cs",
-              "DocumentMoniker": "D:\\WindowProgramming\\solution2\\Exercise\\Game.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution2\\Exercise\\Game.cs",
               "RelativeDocumentMoniker": "Exercise\\Game.cs",
-              "ToolTip": "D:\\WindowProgramming\\solution2\\Exercise\\Game.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\solution2\\Exercise\\Game.cs",
               "RelativeToolTip": "Exercise\\Game.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAUwIgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwIgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T00:52:40.547Z",
               "EditorCaption": ""
@@ -54,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Tester.cs",
-              "DocumentMoniker": "D:\\WindowProgramming\\solution2\\Exercise\\Tester.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution2\\Exercise\\Tester.cs",
               "RelativeDocumentMoniker": "Exercise\\Tester.cs",
-              "ToolTip": "D:\\WindowProgramming\\solution2\\Exercise\\Tester.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\solution2\\Exercise\\Tester.cs",
               "RelativeToolTip": "Exercise\\Tester.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

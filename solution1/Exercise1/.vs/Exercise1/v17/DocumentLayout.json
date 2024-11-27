@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WindowProgramming\\Exercise1\\",
+  "WorkspaceRootPath": "D:\\CMP170_WindowProgramming\\solution1\\Exercise1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB67D40E-E10B-4BF6-9E1C-65187DEBC2B2}|Exercise1\\Exercise1.csproj|d:\\windowprogramming\\exercise1\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB67D40E-E10B-4BF6-9E1C-65187DEBC2B2}|Exercise1\\Exercise1.csproj|d:\\cmp170_windowprogramming\\solution1\\exercise1\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB67D40E-E10B-4BF6-9E1C-65187DEBC2B2}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\WindowProgramming\\Exercise1\\Exercise1\\Program.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution1\\Exercise1\\Exercise1\\Program.cs",
               "RelativeDocumentMoniker": "Exercise1\\Program.cs",
-              "ToolTip": "D:\\WindowProgramming\\Exercise1\\Exercise1\\Program.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\solution1\\Exercise1\\Exercise1\\Program.cs",
               "RelativeToolTip": "Exercise1\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwDIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T19:25:45.252Z",
               "EditorCaption": ""

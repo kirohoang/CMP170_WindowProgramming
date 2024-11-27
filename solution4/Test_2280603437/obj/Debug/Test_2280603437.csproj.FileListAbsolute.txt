@@ -1,0 +1,11 @@
+D:\CMP170_WindowProgramming\solution4\Test_2280603437\bin\Debug\Test_2280603437.exe.config
+D:\CMP170_WindowProgramming\solution4\Test_2280603437\bin\Debug\Test_2280603437.exe
+D:\CMP170_WindowProgramming\solution4\Test_2280603437\bin\Debug\Test_2280603437.pdb
+D:\CMP170_WindowProgramming\solution4\Test_2280603437\obj\Debug\Test_2280603437.csproj.AssemblyReference.cache
+D:\CMP170_WindowProgramming\solution4\Test_2280603437\obj\Debug\Test_2280603437.Form1.resources
+D:\CMP170_WindowProgramming\solution4\Test_2280603437\obj\Debug\Test_2280603437.Properties.Resources.resources
+D:\CMP170_WindowProgramming\solution4\Test_2280603437\obj\Debug\Test_2280603437.csproj.GenerateResource.cache
+D:\CMP170_WindowProgramming\solution4\Test_2280603437\obj\Debug\Test_2280603437.csproj.CoreCompileInputs.cache
+D:\CMP170_WindowProgramming\solution4\Test_2280603437\obj\Debug\Test_2280603437.exe
+D:\CMP170_WindowProgramming\solution4\Test_2280603437\obj\Debug\Test_2280603437.pdb
+D:\CMP170_WindowProgramming\solution4\Test_2280603437\obj\Debug\Test_2280603437.Form2.resources
