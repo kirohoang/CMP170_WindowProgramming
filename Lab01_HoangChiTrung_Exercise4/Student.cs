@@ -13,6 +13,18 @@ namespace Lab01_HoangChiTrung_Exercise4
         private string studentDepartment;
         private double studentAvg;
 
+        public Student()
+        {
+        }
+
+        public Student(int studentCode, string studentName, string studentDepartment, double studentAvg)
+        {
+            this.studentCode = studentCode;
+            this.studentName = studentName;
+            this.studentDepartment = studentDepartment;
+            this.studentAvg = studentAvg;
+        }
+
         public int StudentCode { get => studentCode; set => studentCode = value; }
         public string StudentName { get => studentName; set => studentName = value; }
         public string StudentDepartment { get => studentDepartment; set => studentDepartment = value; }

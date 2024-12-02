@@ -1,0 +1,7 @@
+D:\CMP170_WindowProgramming\solutionpractice\WindowProgrammingPractice\bin\Debug\WindowProgrammingPractice.exe.config
+D:\CMP170_WindowProgramming\solutionpractice\WindowProgrammingPractice\bin\Debug\WindowProgrammingPractice.exe
+D:\CMP170_WindowProgramming\solutionpractice\WindowProgrammingPractice\bin\Debug\WindowProgrammingPractice.pdb
+D:\CMP170_WindowProgramming\solutionpractice\WindowProgrammingPractice\obj\Debug\WindowProgrammingPractice.csproj.AssemblyReference.cache
+D:\CMP170_WindowProgramming\solutionpractice\WindowProgrammingPractice\obj\Debug\WindowProgrammingPractice.csproj.CoreCompileInputs.cache
+D:\CMP170_WindowProgramming\solutionpractice\WindowProgrammingPractice\obj\Debug\WindowProgrammingPractice.exe
+D:\CMP170_WindowProgramming\solutionpractice\WindowProgrammingPractice\obj\Debug\WindowProgrammingPractice.pdb

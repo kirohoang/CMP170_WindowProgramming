@@ -1,0 +1,7 @@
+D:\CMP170_WindowProgramming\solutionpractice\Bai4\bin\Debug\Bai4.exe.config
+D:\CMP170_WindowProgramming\solutionpractice\Bai4\bin\Debug\Bai4.exe
+D:\CMP170_WindowProgramming\solutionpractice\Bai4\bin\Debug\Bai4.pdb
+D:\CMP170_WindowProgramming\solutionpractice\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+D:\CMP170_WindowProgramming\solutionpractice\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+D:\CMP170_WindowProgramming\solutionpractice\Bai4\obj\Debug\Bai4.exe
+D:\CMP170_WindowProgramming\solutionpractice\Bai4\obj\Debug\Bai4.pdb

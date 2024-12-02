@@ -1,0 +1,7 @@
+D:\CMP170_WindowProgramming\solutionpractice\Bai9\bin\Debug\Bai9.exe.config
+D:\CMP170_WindowProgramming\solutionpractice\Bai9\bin\Debug\Bai9.exe
+D:\CMP170_WindowProgramming\solutionpractice\Bai9\bin\Debug\Bai9.pdb
+D:\CMP170_WindowProgramming\solutionpractice\Bai9\obj\Debug\Bai9.csproj.AssemblyReference.cache
+D:\CMP170_WindowProgramming\solutionpractice\Bai9\obj\Debug\Bai9.csproj.CoreCompileInputs.cache
+D:\CMP170_WindowProgramming\solutionpractice\Bai9\obj\Debug\Bai9.exe
+D:\CMP170_WindowProgramming\solutionpractice\Bai9\obj\Debug\Bai9.pdb

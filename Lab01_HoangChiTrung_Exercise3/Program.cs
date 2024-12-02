@@ -8,12 +8,14 @@ namespace Lab01_HoangChiTrung_Exercise3
 {
     internal class Program
     {
-        int noStudent;
-        int noSubject;
-        int id;
+        private int noStudent;
+        private int noSubject;
+        private int id;
 
-        public static double[,] marks;
-        public static double total = 0;
+        private static double[,] marks;
+        private static double total = 0;
+
+    
         // Setter Getter
         public void setNoStudent(int noStudent)
         {

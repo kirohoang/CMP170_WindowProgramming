@@ -1,0 +1,7 @@
+D:\CMP170_WindowProgramming\solutionpractice\Bai8\bin\Debug\Bai8.exe.config
+D:\CMP170_WindowProgramming\solutionpractice\Bai8\bin\Debug\Bai8.exe
+D:\CMP170_WindowProgramming\solutionpractice\Bai8\bin\Debug\Bai8.pdb
+D:\CMP170_WindowProgramming\solutionpractice\Bai8\obj\Debug\Bai8.csproj.AssemblyReference.cache
+D:\CMP170_WindowProgramming\solutionpractice\Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+D:\CMP170_WindowProgramming\solutionpractice\Bai8\obj\Debug\Bai8.exe
+D:\CMP170_WindowProgramming\solutionpractice\Bai8\obj\Debug\Bai8.pdb

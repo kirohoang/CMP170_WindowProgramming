@@ -1,0 +1,14 @@
+D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.csproj.AssemblyReference.cache
+D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.Form1.resources
+D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.csproj.GenerateResource.cache
+D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.csproj.CoreCompileInputs.cache
+D:\CMP170_WindowProgramming\solution5\solution5\bin\Debug\solution5.exe.config
+D:\CMP170_WindowProgramming\solution5\solution5\bin\Debug\solution5.exe
+D:\CMP170_WindowProgramming\solution5\solution5\bin\Debug\solution5.pdb
+D:\CMP170_WindowProgramming\solution5\solution5\bin\Debug\EntityFramework.dll
+D:\CMP170_WindowProgramming\solution5\solution5\bin\Debug\EntityFramework.SqlServer.dll
+D:\CMP170_WindowProgramming\solution5\solution5\bin\Debug\EntityFramework.xml
+D:\CMP170_WindowProgramming\solution5\solution5\bin\Debug\EntityFramework.SqlServer.xml
+D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.csproj.Up2Date
+D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.exe
+D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.pdb

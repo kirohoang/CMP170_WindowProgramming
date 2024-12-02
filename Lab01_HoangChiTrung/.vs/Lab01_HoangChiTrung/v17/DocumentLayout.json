@@ -6,10 +6,13 @@
       "AbsoluteMoniker": "D:0:0:{53195884-E956-4CD5-A67D-33FDA5E2D560}|..\\Lab01_HoangChiTrung_Homework\\Lab01_HoangChiTrung_Homework.csproj|d:\\cmp170_windowprogramming\\lab01_hoangchitrung_homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CEBBFE7-06F7-4BAD-8DF3-BC3ABD19AD9B}|..\\Lab01_HoangChiTrung_Exercise4\\Lab01_HoangChiTrung_Exercise4.csproj|d:\\cmp170_windowprogramming\\lab01_hoangchitrung_exercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53195884-E956-4CD5-A67D-33FDA5E2D560}|..\\Lab01_HoangChiTrung_Homework\\Lab01_HoangChiTrung_Homework.csproj|d:\\cmp170_windowprogramming\\lab01_hoangchitrung_homework\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CEBBFE7-06F7-4BAD-8DF3-BC3ABD19AD9B}|..\\Lab01_HoangChiTrung_Exercise4\\Lab01_HoangChiTrung_Exercise4.csproj|d:\\cmp170_windowprogramming\\lab01_hoangchitrung_exercise4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53195884-E956-4CD5-A67D-33FDA5E2D560}|..\\Lab01_HoangChiTrung_Homework\\Lab01_HoangChiTrung_Homework.csproj|d:\\cmp170_windowprogramming\\lab01_hoangchitrung_homework\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53195884-E956-4CD5-A67D-33FDA5E2D560}|..\\Lab01_HoangChiTrung_Homework\\Lab01_HoangChiTrung_Homework.csproj|d:\\cmp170_windowprogramming\\lab01_hoangchitrung_homework\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,8 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\Lab01_HoangChiTrung_Homework\\Person.cs",
+              "RelativeDocumentMoniker": "..\\Lab01_HoangChiTrung_Homework\\Person.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\Lab01_HoangChiTrung_Homework\\Person.cs",
+              "RelativeToolTip": "..\\Lab01_HoangChiTrung_Homework\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:14:02.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\Lab01_HoangChiTrung_Homework\\Teacher.cs",
+              "RelativeDocumentMoniker": "..\\Lab01_HoangChiTrung_Homework\\Teacher.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\Lab01_HoangChiTrung_Homework\\Teacher.cs",
+              "RelativeToolTip": "..\\Lab01_HoangChiTrung_Homework\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:13:44.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\Lab01_HoangChiTrung_Homework\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Lab01_HoangChiTrung_Homework\\Student.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\Lab01_HoangChiTrung_Homework\\Student.cs",
+              "RelativeToolTip": "..\\Lab01_HoangChiTrung_Homework\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:13:14.209Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -29,35 +71,9 @@
               "RelativeDocumentMoniker": "..\\Lab01_HoangChiTrung_Homework\\Program.cs",
               "ToolTip": "D:\\CMP170_WindowProgramming\\Lab01_HoangChiTrung_Homework\\Program.cs",
               "RelativeToolTip": "..\\Lab01_HoangChiTrung_Homework\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwFcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T09:01:22.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\Lab01_HoangChiTrung_Exercise4\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Lab01_HoangChiTrung_Exercise4\\Program.cs",
-              "ToolTip": "D:\\CMP170_WindowProgramming\\Lab01_HoangChiTrung_Exercise4\\Program.cs",
-              "RelativeToolTip": "..\\Lab01_HoangChiTrung_Exercise4\\Program.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAADgv3kAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T07:47:09.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\Lab01_HoangChiTrung_Exercise4\\Student.cs",
-              "RelativeDocumentMoniker": "..\\Lab01_HoangChiTrung_Exercise4\\Student.cs",
-              "ToolTip": "D:\\CMP170_WindowProgramming\\Lab01_HoangChiTrung_Exercise4\\Student.cs",
-              "RelativeToolTip": "..\\Lab01_HoangChiTrung_Exercise4\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T07:40:03.855Z",
+              "WhenOpened": "2024-11-27T12:07:25.734Z",
               "EditorCaption": ""
             }
           ]
