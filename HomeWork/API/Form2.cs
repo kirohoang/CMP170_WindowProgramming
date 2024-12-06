@@ -20,15 +20,43 @@ namespace API
             InitializeComponent();
 
         }
-
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            AddUser();
+            if (txtID.Text == string.Empty || txtName.Text == string.Empty || txtEmail.Text == string.Empty)
+            {
+                MessageBox.Show("You Can't Leave These Fields Empty!");
+            }
+            else
+            {
+                AddUser();
+            }
         }
-
         private void btnShow_Click(object sender, EventArgs e)
         {
             LoadDataAsync();
+        }
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            if (txtID.Text == string.Empty)
+            {
+                MessageBox.Show("Please fill in the ID of user you want to remove");
+            }
+            else
+            {
+                DeleteUSer(int.Parse(txtID.Text));
+            }
+
+        }
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            if (txtID.Text == string.Empty)
+            {
+                MessageBox.Show("Please Fill In the ID Of User You Want To Remove");
+            }
+            else
+            {
+                UpdateUser(int.Parse(txtID.Text));
+            }
         }
         private async Task DeleteUSer(int ID)
         {
@@ -42,7 +70,7 @@ namespace API
 
                     if (response.IsSuccessStatusCode)
                     {
-                        MessageBox.Show("Removed!");
+                        MessageBox.Show("Removed Successfully!");
                     }
                     else
                     {
@@ -57,11 +85,6 @@ namespace API
             }
         }
 
-        private void btnDelete_Click(object sender, EventArgs e)
-        {
-            DeleteUSer(int.Parse(txtID.Text));
-
-        }
         private async Task UpdateUser(int ID)
         {
             string apiUrl = $"http://localhost:5102/api/Users/{ID}";
@@ -99,10 +122,6 @@ namespace API
                 MessageBox.Show($"Error: {ex.Message}");
             }
         }
-        private void btnUpdate_Click(object sender, EventArgs e)
-        {
-            UpdateUser(int.Parse(txtID.Text));
-        }
         private async Task LoadDataAsync()
         {
             string apiUrl = "http://localhost:5102/api/Users";
@@ -127,12 +146,9 @@ namespace API
                 MessageBox.Show($"Error: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-        async Task AddUser()
+        private async Task AddUser()
         {
-            // API URL
             string apiUrl = "http://localhost:5102/api/Users/";
-
-            // Dữ liệu cần gửi
             var newUser = new
             {
                 Id = txtID.Text,
@@ -153,7 +169,7 @@ namespace API
 
                     if (response.IsSuccessStatusCode)
                     {
-                        MessageBox.Show("Success ");
+                        MessageBox.Show("Added Successfully!");
                     }
                     else
                     {
