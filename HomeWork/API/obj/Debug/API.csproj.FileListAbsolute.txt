@@ -1,0 +1,27 @@
+C:\Users\admin\Desktop\C# programing\HomeWork\API\bin\Debug\API.exe.config
+C:\Users\admin\Desktop\C# programing\HomeWork\API\bin\Debug\API.exe
+C:\Users\admin\Desktop\C# programing\HomeWork\API\bin\Debug\API.pdb
+C:\Users\admin\Desktop\C# programing\HomeWork\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C# programing\HomeWork\API\obj\Debug\API.Form1.resources
+C:\Users\admin\Desktop\C# programing\HomeWork\API\obj\Debug\API.Properties.Resources.resources
+C:\Users\admin\Desktop\C# programing\HomeWork\API\obj\Debug\API.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\C# programing\HomeWork\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C# programing\HomeWork\API\obj\Debug\API.exe
+C:\Users\admin\Desktop\C# programing\HomeWork\API\obj\Debug\API.pdb
+C:\Users\admin\Desktop\C# programing\HomeWork\API\obj\Debug\API.Form2.resources
+C:\Users\admin\Desktop\C# programing\HomeWork\API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\C# programing\HomeWork\API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\C# programing\HomeWork\API\obj\Debug\API.csproj.Up2Date
+D:\CMP170_WindowProgramming\HomeWork\API\bin\Debug\API.exe.config
+D:\CMP170_WindowProgramming\HomeWork\API\bin\Debug\API.exe
+D:\CMP170_WindowProgramming\HomeWork\API\bin\Debug\API.pdb
+D:\CMP170_WindowProgramming\HomeWork\API\bin\Debug\Newtonsoft.Json.dll
+D:\CMP170_WindowProgramming\HomeWork\API\bin\Debug\Newtonsoft.Json.xml
+D:\CMP170_WindowProgramming\HomeWork\API\obj\Debug\API.csproj.AssemblyReference.cache
+D:\CMP170_WindowProgramming\HomeWork\API\obj\Debug\API.Form2.resources
+D:\CMP170_WindowProgramming\HomeWork\API\obj\Debug\API.Properties.Resources.resources
+D:\CMP170_WindowProgramming\HomeWork\API\obj\Debug\API.csproj.GenerateResource.cache
+D:\CMP170_WindowProgramming\HomeWork\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\CMP170_WindowProgramming\HomeWork\API\obj\Debug\API.csproj.Up2Date
+D:\CMP170_WindowProgramming\HomeWork\API\obj\Debug\API.exe
+D:\CMP170_WindowProgramming\HomeWork\API\obj\Debug\API.pdb

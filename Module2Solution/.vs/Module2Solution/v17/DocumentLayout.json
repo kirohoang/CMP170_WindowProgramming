@@ -3,31 +3,35 @@
   "WorkspaceRootPath": "D:\\CMP170_WindowProgramming\\Module2Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|d:\\cmp170_windowprogramming\\module2solution\\module2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|solutionrelative:module2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|d:\\cmp170_windowprogramming\\module2solution\\module2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|solutionrelative:module2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|d:\\cmp170_windowprogramming\\module2solution\\module2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|D:\\CMP170_WindowProgramming\\Module2Solution\\module2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|solutionrelative:module2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|d:\\cmp170_windowprogramming\\module2solution\\module2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|D:\\CMP170_WindowProgramming\\Module2Solution\\module2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|solutionrelative:module2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|d:\\cmp170_windowprogramming\\module2solution\\module2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|D:\\CMP170_WindowProgramming\\Module2Solution\\module2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|solutionrelative:module2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|d:\\cmp170_windowprogramming\\module2solution\\module2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|D:\\CMP170_WindowProgramming\\Module2Solution\\module2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|solutionrelative:module2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|d:\\cmp170_windowprogramming\\module2solution\\module2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|D:\\CMP170_WindowProgramming\\Module2Solution\\module2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|solutionrelative:module2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|d:\\cmp170_windowprogramming\\module2solution\\module2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|D:\\CMP170_WindowProgramming\\Module2Solution\\module2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{805AA26F-D313-4AE8-8C49-462D31E7B8FB}|Module2\\Module2.csproj|solutionrelative:module2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CMP170_WindowProgramming\\Module2Solution\\Module2\\Program.cs",
               "RelativeDocumentMoniker": "Module2\\Program.cs",
@@ -51,12 +55,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T10:10:42.751Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\Module2Solution\\Module2\\Form4.cs",
+              "RelativeDocumentMoniker": "Module2\\Form4.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\Module2Solution\\Module2\\Form4.cs [Design]",
+              "RelativeToolTip": "Module2\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:10:56.289Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form3.cs",
               "DocumentMoniker": "D:\\CMP170_WindowProgramming\\Module2Solution\\Module2\\Form3.cs",
               "RelativeDocumentMoniker": "Module2\\Form3.cs",
@@ -69,19 +84,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "D:\\CMP170_WindowProgramming\\Module2Solution\\Module2\\Form3.cs",
               "RelativeDocumentMoniker": "Module2\\Form3.cs",
               "ToolTip": "D:\\CMP170_WindowProgramming\\Module2Solution\\Module2\\Form3.cs [Design]",
               "RelativeToolTip": "Module2\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:21:42.419Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-01T12:21:42.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\CMP170_WindowProgramming\\Module2Solution\\Module2\\Form2.cs",
               "RelativeDocumentMoniker": "Module2\\Form2.cs",
@@ -89,24 +103,22 @@
               "RelativeToolTip": "Module2\\Form2.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T10:56:02.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T10:56:02.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "D:\\CMP170_WindowProgramming\\Module2Solution\\Module2\\Form2.cs",
               "RelativeDocumentMoniker": "Module2\\Form2.cs",
               "ToolTip": "D:\\CMP170_WindowProgramming\\Module2Solution\\Module2\\Form2.cs [Design]",
               "RelativeToolTip": "Module2\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T10:10:57.889Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-01T10:10:57.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\CMP170_WindowProgramming\\Module2Solution\\Module2\\Form1.cs",
               "RelativeDocumentMoniker": "Module2\\Form1.cs",
@@ -114,20 +126,18 @@
               "RelativeToolTip": "Module2\\Form1.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAIwBUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T10:08:19.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T10:08:19.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\CMP170_WindowProgramming\\Module2Solution\\Module2\\Form1.cs",
               "RelativeDocumentMoniker": "Module2\\Form1.cs",
               "ToolTip": "D:\\CMP170_WindowProgramming\\Module2Solution\\Module2\\Form1.cs [Design]",
               "RelativeToolTip": "Module2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T10:06:11.322Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-01T10:06:11.322Z"
             }
           ]
         }

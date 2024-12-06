@@ -1,0 +1,13 @@
+D:\CMP170_WindowProgramming\solutionpractice#2\solutionpractice#2\bin\Debug\solutionpractice#2.exe.config
+D:\CMP170_WindowProgramming\solutionpractice#2\solutionpractice#2\bin\Debug\solutionpractice#2.exe
+D:\CMP170_WindowProgramming\solutionpractice#2\solutionpractice#2\bin\Debug\solutionpractice#2.pdb
+D:\CMP170_WindowProgramming\solutionpractice#2\solutionpractice#2\obj\Debug\solutionpractice#2.csproj.AssemblyReference.cache
+D:\CMP170_WindowProgramming\solutionpractice#2\solutionpractice#2\obj\Debug\solutionpractice_2.Form1.resources
+D:\CMP170_WindowProgramming\solutionpractice#2\solutionpractice#2\obj\Debug\solutionpractice_2.Properties.Resources.resources
+D:\CMP170_WindowProgramming\solutionpractice#2\solutionpractice#2\obj\Debug\solutionpractice#2.csproj.GenerateResource.cache
+D:\CMP170_WindowProgramming\solutionpractice#2\solutionpractice#2\obj\Debug\solutionpractice#2.csproj.CoreCompileInputs.cache
+D:\CMP170_WindowProgramming\solutionpractice#2\solutionpractice#2\obj\Debug\solutionpractice#2.exe
+D:\CMP170_WindowProgramming\solutionpractice#2\solutionpractice#2\obj\Debug\solutionpractice#2.pdb
+D:\CMP170_WindowProgramming\solutionpractice#2\solutionpractice#2\obj\Debug\solutionpractice_2.Form2.resources
+D:\CMP170_WindowProgramming\solutionpractice#2\solutionpractice#2\obj\Debug\solutionpractice_2.Form3.resources
+D:\CMP170_WindowProgramming\solutionpractice#2\solutionpractice#2\obj\Debug\solutionpractice_2.Form4.resources

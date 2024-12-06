@@ -1,0 +1,14 @@
+D:\CMP170_WindowProgramming\solutionpractice\Bai10\bin\Debug\Bai10.exe.config
+D:\CMP170_WindowProgramming\solutionpractice\Bai10\bin\Debug\Bai10.exe
+D:\CMP170_WindowProgramming\solutionpractice\Bai10\bin\Debug\Bai10.pdb
+D:\CMP170_WindowProgramming\solutionpractice\Bai10\obj\Debug\Bai10.csproj.AssemblyReference.cache
+D:\CMP170_WindowProgramming\solutionpractice\Bai10\obj\Debug\Bai10.csproj.CoreCompileInputs.cache
+D:\CMP170_WindowProgramming\solutionpractice\Bai10\obj\Debug\Bai10.exe
+D:\CMP170_WindowProgramming\solutionpractice\Bai10\obj\Debug\Bai10.pdb
+D:\CMP170_WindowProgramming\module1Solution\Bai10\bin\Debug\Bai10.exe.config
+D:\CMP170_WindowProgramming\module1Solution\Bai10\bin\Debug\Bai10.exe
+D:\CMP170_WindowProgramming\module1Solution\Bai10\bin\Debug\Bai10.pdb
+D:\CMP170_WindowProgramming\module1Solution\Bai10\obj\Debug\Bai10.csproj.AssemblyReference.cache
+D:\CMP170_WindowProgramming\module1Solution\Bai10\obj\Debug\Bai10.csproj.CoreCompileInputs.cache
+D:\CMP170_WindowProgramming\module1Solution\Bai10\obj\Debug\Bai10.exe
+D:\CMP170_WindowProgramming\module1Solution\Bai10\obj\Debug\Bai10.pdb

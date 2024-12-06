@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CMP170_WindowProgramming\\BookManagementSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08ED99-CD59-4F97-954E-6D409B233104}|Book Management\\Book Management.csproj|d:\\cmp170_windowprogramming\\bookmanagementsolution\\book management\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C08ED99-CD59-4F97-954E-6D409B233104}|Book Management\\Book Management.csproj|solutionrelative:book management\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08ED99-CD59-4F97-954E-6D409B233104}|Book Management\\Book Management.csproj|d:\\cmp170_windowprogramming\\bookmanagementsolution\\book management\\migrations\\20241206083838_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C08ED99-CD59-4F97-954E-6D409B233104}|Book Management\\Book Management.csproj|solutionrelative:book management\\migrations\\20241206083838_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08ED99-CD59-4F97-954E-6D409B233104}|Book Management\\Book Management.csproj|d:\\cmp170_windowprogramming\\bookmanagementsolution\\book management\\models\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C08ED99-CD59-4F97-954E-6D409B233104}|Book Management\\Book Management.csproj|solutionrelative:book management\\models\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08ED99-CD59-4F97-954E-6D409B233104}|Book Management\\Book Management.csproj|d:\\cmp170_windowprogramming\\bookmanagementsolution\\book management\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C08ED99-CD59-4F97-954E-6D409B233104}|Book Management\\Book Management.csproj|solutionrelative:book management\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08ED99-CD59-4F97-954E-6D409B233104}|Book Management\\Book Management.csproj|d:\\cmp170_windowprogramming\\bookmanagementsolution\\book management\\models\\addusersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C08ED99-CD59-4F97-954E-6D409B233104}|Book Management\\Book Management.csproj|solutionrelative:book management\\models\\addusersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241206083838_initial migration.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\BookManagementSolution\\Book Management\\Migrations\\20241206083838_initial migration.cs",
+              "RelativeDocumentMoniker": "Book Management\\Migrations\\20241206083838_initial migration.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\BookManagementSolution\\Book Management\\Migrations\\20241206083838_initial migration.cs",
+              "RelativeToolTip": "Book Management\\Migrations\\20241206083838_initial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:51:55.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\BookManagementSolution\\Book Management\\Models\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "Book Management\\Models\\UpdateUserDto.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\BookManagementSolution\\Book Management\\Models\\UpdateUserDto.cs",
+              "RelativeToolTip": "Book Management\\Models\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:46:29.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\BookManagementSolution\\Book Management\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Book Management\\Models\\Entities\\User.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\BookManagementSolution\\Book Management\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "Book Management\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:55:13.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddUsersDto.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\BookManagementSolution\\Book Management\\Models\\AddUsersDto.cs",
+              "RelativeDocumentMoniker": "Book Management\\Models\\AddUsersDto.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\BookManagementSolution\\Book Management\\Models\\AddUsersDto.cs",
+              "RelativeToolTip": "Book Management\\Models\\AddUsersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:09:14.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\BookManagementSolution\\Book Management\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Book Management\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\BookManagementSolution\\Book Management\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Book Management\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwCwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:43:19.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

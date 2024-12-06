@@ -18,11 +18,6 @@ namespace solution5
             InitializeComponent();
         }
 
-        private void labelID_Click(object sender, EventArgs e)
-        {
-
-        }
-
         dbContact db = new dbContact();
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -46,9 +41,16 @@ namespace solution5
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            DataGridViewRow row = dataGridView1.Rows[e.RowIndex];
-            txtID.Text = row.Cells[0].Value.ToString();
-            txtName.Text = row.Cells[1].Value.ToString();
+            if (e.RowIndex != null)
+            {
+                DataGridViewRow row = dataGridView1.Rows[e.RowIndex];
+                txtID.Text = row.Cells[0].Value.ToString();
+                txtName.Text = row.Cells[1].Value.ToString();
+            }
+            else
+            {
+                MessageBox.Show("There is nothing here");
+            }
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
@@ -65,12 +67,19 @@ namespace solution5
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
-            int x = int.Parse(txtID.Text);
-            publisher dbDelete = db.publishers.FirstOrDefault(db => db.publisher_id == x);
-            if (dbDelete != null)
+            try
             {
-                db.publishers.Remove(dbDelete);
-                db.SaveChanges();
+                int x = int.Parse(txtID.Text);
+                publisher dbDelete = db.publishers.FirstOrDefault(db => db.publisher_id == x);
+                if (dbDelete != null)
+                {
+                    db.publishers.Remove(dbDelete);
+                    db.SaveChanges();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("This Publisher is references to Book");
             }
         }
 
@@ -88,6 +97,11 @@ namespace solution5
         private void btnExit_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void btnRefresh_Click(object sender, EventArgs e)
+        {
+            Form1_Load(sender, e);
         }
     }
 }
