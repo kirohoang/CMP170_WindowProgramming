@@ -50,16 +50,20 @@ create table orders(
 	foreign key (customer_id) references customers(customer_id)
 )
 
-insert into publishers values ('Publisher 1')
-insert into publishers values ('Publisher 2')
-insert into publishers values ('Publisher 3')
-insert into publishers values ('Publisher 4')
+create table authors(
+	author_id int identity(1,1) primary key not null,
+	name varchar(50),
+	bio varchar(255),
+	dob smalldatetime,
+	nationality varchar(10)
+)
+
+create table categories(
+	category_id int identity(1,1) primary key not null,
+	category_name varchar(50),
+	description varchar(255)
+)
+
 select * from publishers
-
-insert into books values (N'Book Title 1', 4.5, 20, 'images/book1.png', 1, '12/5/2024')
-insert into books values (N'Book Title 2', 4.5, 20, 'images/book2.png', 2, '12/5/2024')
-insert into books values (N'Book Title 3', 4.5, 20, 'images/book3.png', 3, '12/5/2024')
-insert into books values (N'Book Title 4', 4.5, 20, 'images/book4.png', 4, '12/5/2024')
 select * from books
-
-delete from books where book_id = 10
+SELECT * FROM customers

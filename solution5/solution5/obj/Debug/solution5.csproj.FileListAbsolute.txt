@@ -14,3 +14,7 @@ D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.exe
 D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.pdb
 D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.Form2.resources
 D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.Form3.resources
+D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.Form4.resources
+D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.Form5.resources
+D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.Form6.resources
+D:\CMP170_WindowProgramming\solution5\solution5\obj\Debug\solution5.Form7.resources

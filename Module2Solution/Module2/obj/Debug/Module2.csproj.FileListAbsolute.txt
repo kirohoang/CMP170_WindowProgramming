@@ -10,3 +10,11 @@ D:\CMP170_WindowProgramming\Module2Solution\Module2\obj\Debug\Module2.exe
 D:\CMP170_WindowProgramming\Module2Solution\Module2\obj\Debug\Module2.pdb
 D:\CMP170_WindowProgramming\Module2Solution\Module2\obj\Debug\Module2.Form2.resources
 D:\CMP170_WindowProgramming\Module2Solution\Module2\obj\Debug\Module2.Form3.resources
+D:\CMP170_WindowProgramming\Module2Solution\Module2\obj\Debug\Module2.Form4.resources
+D:\CMP170_WindowProgramming\Module2Solution\Module2\obj\Debug\Module2.Form5.resources
+D:\CMP170_WindowProgramming\Module2Solution\Module2\obj\Debug\Module2.Form6.resources
+D:\CMP170_WindowProgramming\Module2Solution\Module2\obj\Debug\Module2.Form7.resources
+D:\CMP170_WindowProgramming\Module2Solution\Module2\obj\Debug\Module2.Form8.resources
+D:\CMP170_WindowProgramming\Module2Solution\Module2\obj\Debug\Module2.Form9.resources
+D:\CMP170_WindowProgramming\Module2Solution\Module2\obj\Debug\Module2.Form10.resources
+D:\CMP170_WindowProgramming\Module2Solution\Module2\obj\Debug\Module2.Form11.resources

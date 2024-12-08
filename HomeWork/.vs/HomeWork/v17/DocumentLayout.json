@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\CMP170_WindowProgramming\\HomeWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F4CE9A1-4631-4CE1-9E66-43CEF13C274E}|API\\API.csproj|D:\\CMP170_WindowProgramming\\HomeWork\\api\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F4CE9A1-4631-4CE1-9E66-43CEF13C274E}|API\\API.csproj|solutionrelative:api\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F4CE9A1-4631-4CE1-9E66-43CEF13C274E}|API\\API.csproj|D:\\CMP170_WindowProgramming\\HomeWork\\api\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4CE9A1-4631-4CE1-9E66-43CEF13C274E}|API\\API.csproj|solutionrelative:api\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F4CE9A1-4631-4CE1-9E66-43CEF13C274E}|API\\API.csproj|d:\\cmp170_windowprogramming\\homework\\api\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5F4CE9A1-4631-4CE1-9E66-43CEF13C274E}|API\\API.csproj|solutionrelative:api\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5F4CE9A1-4631-4CE1-9E66-43CEF13C274E}|API\\API.csproj|d:\\cmp170_windowprogramming\\homework\\api\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4CE9A1-4631-4CE1-9E66-43CEF13C274E}|API\\API.csproj|solutionrelative:api\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\CMP170_WindowProgramming\\HomeWork\\API\\Form2.cs",
               "RelativeDocumentMoniker": "API\\Form2.cs",
               "ToolTip": "D:\\CMP170_WindowProgramming\\HomeWork\\API\\Form2.cs",
               "RelativeToolTip": "API\\Form2.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwC0AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T12:16:13.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "D:\\CMP170_WindowProgramming\\HomeWork\\API\\Form2.cs",
               "RelativeDocumentMoniker": "API\\Form2.cs",

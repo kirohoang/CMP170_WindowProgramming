@@ -42,8 +42,7 @@
               "RelativeToolTip": "Book Management\\Migrations\\20241206083838_initial migration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T14:51:55.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T14:51:55.746Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Book Management\\Models\\UpdateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T09:46:29.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T09:46:29.146Z"
             },
             {
               "$type": "Document",
@@ -90,7 +88,7 @@
               "RelativeDocumentMoniker": "Book Management\\Controllers\\UsersController.cs",
               "ToolTip": "D:\\CMP170_WindowProgramming\\BookManagementSolution\\Book Management\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Book Management\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowCwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T08:43:19.749Z",
               "EditorCaption": ""

@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\CMP170_WindowProgramming\\solution5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|D:\\CMP170_WindowProgramming\\solution5\\solution5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|solutionrelative:solution5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|D:\\CMP170_WindowProgramming\\solution5\\solution5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|solutionrelative:solution5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|D:\\CMP170_WindowProgramming\\solution5\\solution5\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|solutionrelative:solution5\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|d:\\cmp170_windowprogramming\\solution5\\solution5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|solutionrelative:solution5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|D:\\CMP170_WindowProgramming\\solution5\\solution5\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|solutionrelative:solution5\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|d:\\cmp170_windowprogramming\\solution5\\solution5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|solutionrelative:solution5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|d:\\cmp170_windowprogramming\\solution5\\solution5\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|solutionrelative:solution5\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|D:\\CMP170_WindowProgramming\\solution5\\solution5\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|solutionrelative:solution5\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|D:\\CMP170_WindowProgramming\\solution5\\solution5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF67198-C743-4E93-B4DF-3A718CDE9ED3}|solution5\\solution5.csproj|solutionrelative:solution5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 330,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution5\\solution5\\Form2.cs",
               "RelativeDocumentMoniker": "solution5\\Form2.cs",
               "ToolTip": "D:\\CMP170_WindowProgramming\\solution5\\solution5\\Form2.cs",
               "RelativeToolTip": "solution5\\Form2.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:45:00.759Z",
+              "WhenOpened": "2024-12-08T16:00:15.461Z",
               "EditorCaption": ""
             },
             {
@@ -54,46 +54,44 @@
               "ToolTip": "D:\\CMP170_WindowProgramming\\solution5\\solution5\\Form2.cs [Design]",
               "RelativeToolTip": "solution5\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:44:58.192Z",
+              "WhenOpened": "2024-12-08T16:00:11.754Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution5\\solution5\\Form3.cs",
-              "RelativeDocumentMoniker": "solution5\\Form3.cs",
-              "ToolTip": "D:\\CMP170_WindowProgramming\\solution5\\solution5\\Form3.cs",
-              "RelativeToolTip": "solution5\\Form3.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T00:54:29.481Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution5\\solution5\\Form3.cs",
-              "RelativeDocumentMoniker": "solution5\\Form3.cs",
-              "ToolTip": "D:\\CMP170_WindowProgramming\\solution5\\solution5\\Form3.cs [Design]",
-              "RelativeToolTip": "solution5\\Form3.cs [Design]",
+              "Title": "Form7.cs",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution5\\solution5\\Form7.cs",
+              "RelativeDocumentMoniker": "solution5\\Form7.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\solution5\\solution5\\Form7.cs",
+              "RelativeToolTip": "solution5\\Form7.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAEwGUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T00:07:16.612Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-07T15:20:25.766Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution5\\solution5\\Form7.cs",
+              "RelativeDocumentMoniker": "solution5\\Form7.cs",
+              "ToolTip": "D:\\CMP170_WindowProgramming\\solution5\\solution5\\Form7.cs [Design]",
+              "RelativeToolTip": "solution5\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:44:59.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CMP170_WindowProgramming\\solution5\\solution5\\Program.cs",
               "RelativeDocumentMoniker": "solution5\\Program.cs",
               "ToolTip": "D:\\CMP170_WindowProgramming\\solution5\\solution5\\Program.cs",
               "RelativeToolTip": "solution5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T13:55:29.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T13:55:29.223Z"
             }
           ]
         }

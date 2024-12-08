@@ -1,10 +1,6 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,7 +10,7 @@ namespace API
 {
     public partial class Form2 : Form
     {
-
+        string uri = "http://localhost:5102";
         public Form2()
         {
             InitializeComponent();
@@ -60,7 +56,7 @@ namespace API
         }
         private async Task DeleteUSer(int ID)
         {
-            string apiUrl = $"http://localhost:5102/api/Users/{ID}";
+            string apiUrl = $"{uri}/api/Users/{ID}";
 
             try
             {
@@ -87,7 +83,7 @@ namespace API
 
         private async Task UpdateUser(int ID)
         {
-            string apiUrl = $"http://localhost:5102/api/Users/{ID}";
+            string apiUrl = $"{uri}/api/Users/{ID}";
 
             // Dữ liệu cần cập nhật
             var updatedUser = new
@@ -124,7 +120,7 @@ namespace API
         }
         private async Task LoadDataAsync()
         {
-            string apiUrl = "http://localhost:5102/api/Users";
+            string apiUrl = $"{uri}/api/Users";
 
             try
             {
@@ -148,7 +144,7 @@ namespace API
         }
         private async Task AddUser()
         {
-            string apiUrl = "http://localhost:5102/api/Users/";
+            string apiUrl = $"{uri}/api/Users/";
             var newUser = new
             {
                 Id = txtID.Text,
